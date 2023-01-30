@@ -1,0 +1,6 @@
+Choose a restaurant.
+Review the menu.
+Agree on what pizza to order.
+Place the order.
+Pace the floor impatiently until delivery arrives.
+Eat!
