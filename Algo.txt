@@ -3,4 +3,5 @@ Review the menu.
 Agree on what pizza to order.
 Place the order.
 Pace the floor impatiently until delivery arrives.
+Examine the order for accuracy. (test only)
 Eat!
